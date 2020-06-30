@@ -44,9 +44,9 @@ At all meetings of members, each member may vote in person or by proxy. All prox
 
 The affairs of the Association shall be managed by a Board of three (3) directors chosen as specified in these documents from the Association membership. 
 
-### Section 2. Tenn of Office.
+### Section 2. Term of Office.
 
-Directors shall serve one or two terms as directed with the intent that at least one member remains constant. At each annual meeting the members shall tty to elect one (1) director for a term of two (2) years. 
+Directors shall serve one or two terms as directed with the intent that at least one member remains constant. At each annual meeting the members shall try to elect one (1) director for a term of two (2) years. 
 
 ### Section 3. Removal.
 
@@ -58,7 +58,7 @@ No director shall receive compensation for any service rendered to the Associati
 
 ### Section 5. Action Taken Without A Meeting.
 
-The directors shall have the right to take any action in the absence of a meeting by obtaining the written approval of all the directors unless the action is go_verned by specific regulations outlined in these documents. An action so approved shall have the same effect as though taken at a meeting of the directors. The members of the Association will be notified in writing of the decisions within seven (7) days. 
+The directors shall have the right to take any action in the absence of a meeting by obtaining the written approval of all the directors unless the action is governed by specific regulations outlined in these documents. An action so approved shall have the same effect as though taken at a meeting of the directors. The members of the Association will be notified in writing of the decisions within seven (7) days. 
 
 ## ARTICLE IV<br>Nomination and Election of Directors 
 
