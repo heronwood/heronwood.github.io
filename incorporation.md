@@ -75,6 +75,7 @@ Pursuant to the provisions of RCW 24.03.170 et seq., the following Articles of A
 DATED this 24 day of January 2004. 
 
 By: Kevin Stevens, President
+
 Phone: 253/851-1634
 
 ## EXHIBIT A --- Plat
