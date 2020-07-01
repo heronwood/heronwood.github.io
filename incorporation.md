@@ -75,3 +75,7 @@ DATED this 24 day of January 2004.
 
 By: Kevin Stevens, President
 Phone: 253/851-1634
+
+## EXHIBIT A --- Plat
+
+![EXHIBIT A --- Plat](/plat.png)
