@@ -1,7 +1,4 @@
 url: https://heronwood.org
 title: Heronwood Estates Homeowners Association
 
-markdown: kramdown
-
-kramdown:
-  input: GFM
+markdown: GFM
