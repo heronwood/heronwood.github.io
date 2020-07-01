@@ -1,3 +1,7 @@
+---
+title: Articles of Incorporation
+---
+
 # ARTICLES OF AMENDMENT<br>OF<br>THE ARTICLES OF INCORPORATION<br>OF<br>HERONWOOD ESTATES HOMEOWNERS ASSOCIATION<br>aka<br>QUAIL RUN ESTATES HOMEOWNERS ASSOCIATION 
 
 Pursuant to the provisions of RCW 24.03.170 et seq., the following Articles of Amendment are executed in duplicate by HERONWOOD ESTATES HOMEOWNERS ASSOCIATION, a Washington non-profit corporation.
