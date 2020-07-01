@@ -315,3 +315,157 @@ Kevin Stevens, Director
 Mitchell Blakney, Director
 
 Betty Schwingler, Director
+
+## EXHIBIT "A"<br>TO<br>DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS
+
+### Legal Description
+
+Lots 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57, together with open space Tracts A, B, and C in the Amended Plat of Quail Run Estates according to Plat recorded under Pierce County Auditor's Fee Number 8206140202. Situated in the County of Pierce, State of Washington.
+
+## APPENDIX
+
+### FORM A --- Architectural Modification Request
+
+Please return the completed form and all required documents to: Heronwood Estates Homeowners Association, PO Box 2225, Gig Harbor, WA, 98335. No work may commence until written approval has been granted as provided in the Declaration.
+
+NAME OF OWNER _________________________________________
+
+ADDRESS ____________________________________ Lot # ______
+
+TELEPHONE NUMBERS (home) ____________________ (work) ____________________
+
+In accordance with the Declaration of Covenants, Conditions and Restrictions of Heronwood Estates Homeowners Association, I/We hereby apply for written consent to make the following modifications or additions.
+
+DESCRIPTION/DIAGRAM OF MODIFICATIONS REQUESTED. Please include a detailed description and diagram where applicable. If more space is needed, attach a separate sheet.
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+SIGNATURE OF OWNER ________________________ DATE __________
+
+### Action by the Board of Directors or Architectural Control Committee
+
+Date request received ________________________
+
+[ ] Approved as requested.
+
+[ ] Approved subject to the following conditions/modifications.
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+[ ] Disapproved for the following reason(s).
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+Date of notification to owner ________________________
+
+Signed by ________________________ Position ________________________
+
+Signed by ________________________ Position ________________________
+
+Signed by ________________________ Position ________________________
+
+## APPENDIX
+
+### FORM B --- Homeowners Association Complaint
+
+Please return the completed form and all required documents to: Heronwood Estates Homeowners Association, PO Box 2225, Gig Harbor, WA, 98335.
+
+OWNER SUBMITTING COMPLAINT ________________________
+
+ADDRESS ____________________________________ Lot # ______
+
+TELEPHONE NUMBERS (home) ____________________ (work) ____________________
+
+In accordance with the Declaration of Covenants, Conditions and Restrictions of Heronwood Estates Homeowners Association, I/We hereby apply for written Architectural Evaluation of the following:
+
+NAME, ADDRESS AND LOT # OF SUSPECTED VIOLATOR
+
+____________________________________________
+
+____________________________________________
+
+DESCRIPTION/DIAGRAM OF SUSPECTED VIOLATION. Please include a detailed description and diagram where applicable. Make note of the specific Articles, By-Laws or Covenants that are believed to be in violation. If more space is needed, attach a separate sheet.
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+SIGNATURE OF OWNER ________________________ DATE __________
+
+### Action by the Board of Directors or Architectural Control Committee
+
+Date complaint received ________________________
+
+[ ] No violation of the Articles, By-Laws or Covenants has been determined.
+
+[ ] A violation of the Articles, By-Laws or Covenants has been determined as follows:
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+Action taken, including timeline for compliance
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+____________________________________________
+
+Date of notification to owner submitting complaint ________________________
+
+Date of notification to owner determined to be in violation ________________________
+
+Signed by ________________________ Position ________________________
+
+Signed by ________________________ Position ________________________
+
+Signed by ________________________ Position ________________________
+
+## EXHIBIT B - Plat
+
+![Exhibit B - Plat](/plat.png)
