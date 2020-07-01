@@ -5,6 +5,7 @@ Pursuant to the provisions of RCW 24.03.170 et seq., the following Articles of A
 1. The name of the corporation currently is HERONWOOD ESTATES HOMEOWNERS ASSOCIATION. 
 
 2. The Articles of Incorporation are amended as follows:
+    
     ## ARTICLE I
     
     The name of the corporation is Heronwood Estates Homeowners Association formerly known as Quail Run Estates Homeowners Association, hereinafter called the "Association" 
