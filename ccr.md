@@ -1,3 +1,7 @@
+---
+title: Declaration of Covenants, Conditions and Restrictions
+---
+
 # FIRST AMENDMENT TO<br>DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS<br>OF HERONWOOD ESTATES HOMEOWNERS ASSOCIATION<br>aka QUAIL RUN ESTATES HOMEOWNERS ASSOCIATION
 
 THE UNDERSIGNED, having duly executed the Declaration of Quail Run Estates Protective Covenants, Conditions, and Restrictions (hereinafter CC&R's) on July 7, 1982 and recorded under Auditor's number 8207070369, and having the power to amend such CC&R's as provided in Article XII, Section 4, hereby amend such CC&R's as follows: 
