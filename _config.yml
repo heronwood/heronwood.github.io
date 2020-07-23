@@ -4,9 +4,9 @@ markdown: GFM
 collections:
   events:
     output: true
+    permalink: /:collection/:name
 defaults:
   - scope:
       path: ''
-      type: 'events'
     values:
       layout: default
