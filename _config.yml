@@ -4,3 +4,4 @@ markdown: GFM
 collections:
   events:
     output: true
+    layout: default
