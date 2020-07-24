@@ -55,7 +55,7 @@ Each owner shall have a right and an easement of enjoyment in and to the common 
 
 1. The right of the Association to mortgage the common areas in order to borrow money for the purpose of improving those areas. No such mortgage shall be effective unless an instrument signed by members representing two-thirds (2/3) of the total voting membership agreeing to such mortgage has been recorded. 
 
-2. The right of the Association to dedicate or transfer all or any part of the common area to any public agency, authority, or utility for the purpose for which such common area was constructed. No such dedication or transfer shall be effective unless an instrun,ent signed by members holding two-thirds (2/3) of the total voting membership of the Association agreeing to such dedication or transfer has been recorded. 
+2. The right of the Association to dedicate or transfer all or any part of the common area to any public agency, authority, or utility for the purpose for which such common area was constructed. No such dedication or transfer shall be effective unless an instrument signed by members holding two-thirds (2/3) of the total voting membership of the Association agreeing to such dedication or transfer has been recorded. 
 
 ### Section 2. Delegation of Use.
 
@@ -75,7 +75,7 @@ The Association hereby covenants, and each owner of any lot by acceptance of a d
 
 ### Section 2. Purpose of Assessments.
 
-The assessments levied by the Association shall be used exclusively to promote the recreation, health, safety and welfare of the residents of the properties, including, without limitation, the construction, establishment, improvement, repair and maintenance of the common areas, and providing services and facilities related to tl1e use and enjoyment of tl,e c01runon areas, and the pay1nent of taxes, assessments and insurance on the co1nmon areas. 
+The assessments levied by the Association shall be used exclusively to promote the recreation, health, safety and welfare of the residents of the properties, including, without limitation, the construction, establishment, improvement, repair and maintenance of the common areas, and providing services and facilities related to the use and enjoyment of the common areas, and the payment of taxes, assessments and insurance on the common areas. 
 
 ### Section 3. Maximum Annual Assessment.
 
