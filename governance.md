@@ -6,9 +6,15 @@ title: Governance
 
 ### Articles of Incorporation
 
+Our [Articles of Incorporation]({% link governance/articles-of-incorporation.md %})…
+
 ### By-Laws
 
+Our [By-Laws]({% link governance/by-laws.md %}) dictate how our organization operates.
+
 ### Covenants, Conditions, and Restrictions
+
+Our [Covenants, Conditions, and Restrictions]({% link governance/covenants-conditions-and-restrictions.md %}) spell out the rights and obligations that the association has to its members and vice versa.
 
 ## Governing Bodies
 
