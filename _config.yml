@@ -2,6 +2,10 @@ url: https://heronwood.org
 title: Heronwood Estates Homeowners’ Association
 markdown: GFM
 collections:
+  acc_members:
+    output: false
+  board_members:
+    output: false
   events:
     output: true
     permalink: /:collection/:name
