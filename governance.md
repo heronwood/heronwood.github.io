@@ -4,19 +4,23 @@ title: Governance
 
 ## Governing Documents
 
+The following legal documents describe how our association is governed.
+
 ### Articles of Incorporation
 
-Our [Articles of Incorporation]({% link governance/articles-of-incorporation.md %}) define the basic purpose and structure of our organization.
+Our [Articles of Incorporation]({% link governance/articles-of-incorporation.md %}) define the basic purpose and structure of our association.
 
 ### By-Laws
 
-Our [By-Laws]({% link governance/by-laws.md %}) dictate how our organization operates (meeting frequency, voting procedures, etc.).
+Our [By-Laws]({% link governance/by-laws.md %}) dictate how our association operates (meeting frequency, voting procedures, etc.).
 
 ### Covenants, Conditions, and Restrictions
 
 Our [Covenants, Conditions, and Restrictions]({% link governance/covenants-conditions-and-restrictions.md %}) spell out the rights and obligations that the association has to its members and vice versa.
 
 ## Governing Bodies
+
+The following elected bodies are responsible for governing our association.
 
 ### Board of Directors
 
