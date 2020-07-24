@@ -36,12 +36,12 @@ The terms used in this Declaration shall have the same meaning as in the Article
 
 ### Section 4.
 
-"Lot" means any nmnbered plot of land shown upon the recorded subdivision 
+"Lot" means any numbered plot of land shown upon the recorded subdivision 
 map of the property. The term does not apply to areas designated on the map as "Open Space". 
 
 ### Section 5.
 
-"Common Area" means all real and personal property owned by the Association for the common use and enjoyment of the owners. The common area to be owned by the Association at the time of the conveyance of the first Joi was the areas designated on the subdivision map as "Open Space Tracts A, B and C", and the signs located at both entrances to tl1e property. 
+"Common Area" means all real and personal property owned by the Association for the common use and enjoyment of the owners. The common area to be owned by the Association at the time of the conveyance of the first lot was the areas designated on the subdivision map as "Open Space Tracts A, B and C", and the signs located at both entrances to the property. 
 
 ### Section 6.
 
@@ -71,7 +71,7 @@ Every owner of a Lot shall be a member of the Association and shall be entitled 
 
 ### Section 1. Creation of Lien and Personal Obligation of Assessments.
 
-The Association hereby covenants, and each owner of any lot by acceptance of a deed therefore, whether or not it shall be so expressed in such deed, is deemed to covenant and agree to pay to the Association: (1) annual assessments or charges, and (2) special assessments for capital improvements, such assessments to be established and collected as hereinafter provided. The annual and special assessments, together with interest, costs and reasonable attorney's fees shall be a charge on the land and shall be a continuing lien upon the property against which each assessment is made. Each such assessment, together with interest, costs and reasonable attorney's fees, shall also be the personal obligation of the person who was the owner of such property at the time when the assessment fell due. The personal obligation for delinquent assessments shall not pass to his successors in title unless expressly assumed by them; provided, however, that in the case of a sale of any lot which is charged with the payment of an assessment or assessments payable in installinents, the person or entity who is the owner immediately prior to the date of any such sale, contract or assignment shall be personally liable only for the amount of the installinents falling due prior to said date. The new owner shall be personally liable for installinents which become due on and after said date. 
+The Association hereby covenants, and each owner of any lot by acceptance of a deed therefore, whether or not it shall be so expressed in such deed, is deemed to covenant and agree to pay to the Association: (1) annual assessments or charges, and (2) special assessments for capital improvements, such assessments to be established and collected as hereinafter provided. The annual and special assessments, together with interest, costs and reasonable attorney's fees shall be a charge on the land and shall be a continuing lien upon the property against which each assessment is made. Each such assessment, together with interest, costs and reasonable attorney's fees, shall also be the personal obligation of the person who was the owner of such property at the time when the assessment fell due. The personal obligation for delinquent assessments shall not pass to his successors in title unless expressly assumed by them; provided, however, that in the case of a sale of any lot which is charged with the payment of an assessment or assessments payable in installments, the person or entity who is the owner immediately prior to the date of any such sale, contract or assignment shall be personally liable only for the amount of the installments falling due prior to said date. The new owner shall be personally liable for installments which become due on and after said date. 
 
 ### Section 2. Purpose of Assessments.
 
@@ -91,7 +91,7 @@ In addition to the annual assessment authorized above, the Association may levy,
 
 ### Section 5. Notice and Quorum for Action Authorized Under Sections 3 and 4.
 
-Written notice of any meeting called for the purpose of taking any action authorized under Sections 3 and 4 shall be sent to all members not less than thirty (30) days nor more than sixty (60) days in advance of the meeting. At the first such meeting called, the presence of members or of proxies entitled to cast two-thirds (2/3) of the total voting membership shall constitute a quorum. If the required quorum is not present, another meeting may be called subject to the same notice requirement, and the required quorum at the subsequent meeting shall be one-half of the required quon.un at the preceding meeting. No such subsequent meeting shall be held. more than sixty (60) days following the preceding meeting. 
+Written notice of any meeting called for the purpose of taking any action authorized under Sections 3 and 4 shall be sent to all members not less than thirty (30) days nor more than sixty (60) days in advance of the meeting. At the first such meeting called, the presence of members or of proxies entitled to cast two-thirds (2/3) of the total voting membership shall constitute a quorum. If the required quorum is not present, another meeting may be called subject to the same notice requirement, and the required quorum at the subsequent meeting shall be one-half of the required quorum at the preceding meeting. No such subsequent meeting shall be held more than sixty (60) days following the preceding meeting. 
 
 ### Section 6. Uniform Rate of Assessment.
 
@@ -103,7 +103,7 @@ The annual assessments for the current calendar year shall be due and payable Ja
 
 ### Section 8. Effect of Nonpayment of Annual or Special Assessments: Remedies of the Association.
 
-Any annual or special assessment not paid and postmarked within 30 days after the due date shall bear interest from the due date at the rate of twelve percent (12%) per annum. The Association may bring an action at law against the owner personally obligated to pay tl1.e same and/ or foreclos􀁜 the lien against the property in like manner as a mortgage of real property. In the event legal action is initiated, the owner liable for said assessment shall pay all of the costs and expenses incurred incident thereto, including a reasonable sum as attorney's fees, alJ. of which shall be secured by the lien provided for herein. No owner may waive or otherwise escape liability for the assessments provided for herein by nonuse of the common area or abandonment of his lot. 
+Any annual or special assessment not paid and postmarked within 30 days after the due date shall bear interest from the due date at the rate of twelve percent (12%) per annum. The Association may bring an action at law against the owner personally obligated to pay the same and/or foreclose the lien against the property in like manner as a mortgage of real property. In the event legal action is initiated, the owner liable for said assessment shall pay all of the costs and expenses incurred incident thereto, including a reasonable sum as attorney's fees, all of which shall be secured by the lien provided for herein. No owner may waive or otherwise escape liability for the assessments provided for herein by nonuse of the common area or abandonment of his lot. 
 
 ### Section 9. Subordination of Lien to Mortgages.
 
@@ -113,14 +113,14 @@ The lien of the assessments provided for herein shall be subordinate to the lien
 
 ### Section 1. The Architectural Control Committee (ACC).
 
-If an ACC is elected by the Association members, its decisions shall be final and binding; however, applications may be resubmitted. New members shall be elected for a term of at least one (1) year by a majority vote of the members of the Association. If any member of the Committee is unable or unwilling to act, the remaining members shall elect a successor to serve the balance of the unexpired term. The Board of Directors or the ACC shall not be liable in damages to any person submitting a request for approval or to any owner within the property by reason Of any action, failure to act, approval or disapproval with regard to any such request. 
+If an ACC is elected by the Association members, its decisions shall be final and binding; however, applications may be resubmitted. New members shall be elected for a term of at least one (1) year by a majority vote of the members of the Association. If any member of the Committee is unable or unwilling to act, the remaining members shall elect a successor to serve the balance of the unexpired term. The Board of Directors or the ACC shall not be liable in damages to any person submitting a request for approval or to any owner within the property by reason of any action, failure to act, approval or disapproval with regard to any such request. 
 
 ### Section 2. Approval Required.
 
 None of the following actions may be taken until plans and specifications for the same have been approved in writing by the Board of Directors or by the Architectural Control Committee: 
 
 1. Clearing of any lot.
-2. Removal any growing tree larger than 1 O" at its base.
+2. Removal any growing tree larger than 1O" at its base.
 3. Construction of any building or structure, including outbuildings, fences, and walls.
 4. Alteration of the exterior of any building or improvement, including any change in exterior color and type of roof other than architectural grade shingles, shakes, tile or high-grade metal as approved at the May, 2001 Association meeting.
 5. Excavation, grading or removal of dirt, except as may be necessary for the construction of any improvement approved by the ACC.
@@ -163,7 +163,7 @@ Where it is architecturally possible in the determination of the Architectural C
 
 ### Section 4.
 
-No animals, livestock or poultry of any kind shall be raised, bred or kept on any part of the property, except dogs, cats, or other household pets, provided that such household pets are not kept, bred or maintained for any commercial purpose. Animals must be on leashes when wallring and animal waste must be disposed of by the pet owner. 
+No animals, livestock or poultry of any kind shall be raised, bred or kept on any part of the property, except dogs, cats, or other household pets, provided that such household pets are not kept, bred or maintained for any commercial purpose. Animals must be on leashes when walking and animal waste must be disposed of by the pet owner. 
 
 ### Section 5.
 
@@ -175,15 +175,15 @@ Except with the written approval of the Board or the Architectural Control Commi
 
 ### Section 7.
 
-The work of construction of all buildings and structures shall be prosecuted diligently and continuously from commencement of construction until the structures are fully completed and painted. All stn1ctures shall be completed as to external appearance, including finish painting, within nine (9) months from the date of commencement of the construction unless prevented by a cause beyond the owner's control. 
+The work of construction of all buildings and structures shall be prosecuted diligently and continuously from commencement of construction until the structures are fully completed and painted. All structures shall be completed as to external appearance, including finish painting, within nine (9) months from the date of commencement of the construction unless prevented by a cause beyond the owner's control. 
 
 ### Section 8.
 
-No garbage, refuse, rubbish or cutting shall be deposited on or left on any lot unless placed in an attractive container suitably located and screened from public view except within twenty-four (24) hours before and after designated area garbage pick-up. No building materials of any kind shall be placed or stored upon ariy lot until the owner is ready to co1mnence construction and then such materials shall be placed within the property line of the lot upon which said structures are to be erected, and shall not be placed in the street. 
+No garbage, refuse, rubbish or cutting shall be deposited on or left on any lot unless placed in an attractive container suitably located and screened from public view except within twenty-four (24) hours before and after designated area garbage pick-up. No building materials of any kind shall be placed or stored upon any lot until the owner is ready to commence construction and then such materials shall be placed within the property line of the lot upon which said structures are to be erected, and shall not be placed in the street. 
 
 ### Section 9.
 
-No signs of any kind nor for any uses, except public notice by a political division of the State or as required by law, shall be erected, po.sted, painted or displayed on any building site in this subdivision whatsoever; provided, however,· that any builder or his agent may erect and display signs during the period he is building and selling property in the subdivision and that any owner or his agent wishing to sell his or her home may place one (1) sign, not larger than six hundred (600) square inches, advertising the property for sale or rent. 
+No signs of any kind nor for any uses, except public notice by a political division of the State or as required by law, shall be erected, posted, painted or displayed on any building site in this subdivision whatsoever; provided, however, that any builder or his agent may erect and display signs during the period he is building and selling property in the subdivision and that any owner or his agent wishing to sell his or her home may place one (1) sign, not larger than six hundred (600) square inches, advertising the property for sale or rent. 
 
 ### Section 10.
 
@@ -195,7 +195,7 @@ No clothesline shall be located on a residential lot so as to be visible from th
 
 ### Section 12.
 
-No radio, television, cell antenrnte or satellite dish of any kind which may be, undesirable to other lot owners (in the opinion of. the Board or the Architectural Control Committee) shall be installed or erected on any residentjal lot. 
+No radio, television, cell antennae or satellite dish of any kind which may be, undesirable to other lot owners (in the opinion of the Board or the Architectural Control Committee) shall be installed or erected on any residential lot. 
 
 ### Section 13.
 
@@ -203,15 +203,15 @@ Except with the written approval of the Board or the Architech1ral Control Commi
 
 ### Section 14.
 
-Each and every owner shall install or have installed within nine (9) months of occupancy or closing, whichever is sooner, landscaping of the front and side yards of the property. The owner shall submit sketches or plans to the Board or the Architectural Control Co1mnittee and receive approval of said plans before installation. 
+Each and every owner shall install or have installed within nine (9) months of occupancy or closing, whichever is sooner, landscaping of the front and side yards of the property. The owner shall submit sketches or plans to the Board or the Architectural Control Committee and receive approval of said plans before installation. 
 
 ### Section 15.
 
-Each builder or initial lot owner of each and every residential lot within the property, after purchasing the lot from the Declaiarit, shall install on each lot or cause to be installed, a mail box stand and a post light in a colot, design, and location to be approved by the Board or the Architectural Contrnl Corrunittee. Said· post lights shall be installed on each and every residential lot at a distance not to exceed forty (40) feet from the center of the roadway on which said residential lot shall front; except in those cases where the residential lot fronts on a cul-de-sac, then the post lights shall be located at a distance not to exceed sixty-five (65) feet from the center point of said cul-de-sac. 
+Each builder or initial lot owner of each and every residential lot within the property, after purchasing the lot from the Declarant, shall install on each lot or cause to be installed, a mail box stand and a post light in a color, design, and location to be approved by the Board or the Architectural Control Committee. Said post lights shall be installed on each and every residential lot at a distance not to exceed forty (40) feet from the center of the roadway on which said residential lot shall front; except in those cases where the residential lot fronts on a cul-de-sac, then the post lights shall be located at a distance not to exceed sixty-five (65) feet from the center point of said cul-de-sac. 
 
 ### Section 16.
 
-All co1mnon areas shall be maintained by the Association. No changes in landscaping, nor removal or triimning of trees, lawns, or shrubs will be permitted within the common areas without written authorization of the Board or the Architectural Control Com1nittee. Should it become necessary to thin foliage or remove certain growing or dead trees or brush within these common areas for the purpose of improving the quality of life or safety within the property, then the owner or owners of those lots desiring to thii1 foliage or remove certain trees should submit a written statement as to the reason for removing this plant life along with a drawing delineating those trees or plants to be removed. The Board or the Architectural Control Committee shall within thirty (30) days review and act to either approve or disapprove the request in writing. Because these areas are common to all homeowners, not just the adjacent properties, it is incumbent on the Board or ACC to notify Association members of any action related to the common areas excluding those actions deemed by the Board or ACC to be of an emergent nature. 
+All common areas shall be maintained by the Association. No changes in landscaping, nor removal or triimning of trees, lawns, or shrubs will be permitted within the common areas without written authorization of the Board or the Architectural Control Committee. Should it become necessary to thin foliage or remove certain growing or dead trees or brush within these common areas for the purpose of improving the quality of life or safety within the property, then the owner or owners of those lots desiring to thin foliage or remove certain trees should submit a written statement as to the reason for removing this plant life along with a drawing delineating those trees or plants to be removed. The Board or the Architectural Control Committee shall within thirty (30) days review and act to either approve or disapprove the request in writing. Because these areas are common to all homeowners, not just the adjacent properties, it is incumbent on the Board or ACC to notify Association members of any action related to the common areas excluding those actions deemed by the Board or ACC to be of an emergent nature. 
 
 ### Section 17.
 
@@ -233,11 +233,11 @@ The Association shall continuously maintain such insurance as may be required fo
 
 ### Section 1.
 
-In the event of damage or destruction to all or part of the common areas, the insurance proceeds, if sufficient, shall be applied to repair, reconstruct, or rebuild the common area in accordance with the original plans and/ or condition. Such repair, reconstruction or rebuilding shall be arranged for promptly by the Board of Directors. 
+In the event of damage or destruction to all or part of the common areas, the insurance proceeds, if sufficient, shall be applied to repair, reconstruct, or rebuild the common area in accordance with the original plans and/or condition. Such repair, reconstruction or rebuilding shall be arranged for promptly by the Board of Directors. 
 
 ### Section 2.
 
-If the insurance proceeds are insufficient to pay for the cost to repair the common areas, the Board shall promptly, but in no event later than ninety (90) days after the date of damage or destruction, give notice to and conduct a special meeting of the owners to review the proposed repairs, replacement, and reconstruction, as well as the projected cost of such repairs, replacement or reconstruction. The owners shall be deemed to have approved the proposed repairs, replacement, and reconstruction as proposed by the Board at that meeting, unless tl1e owners decide by an affirmative vote of two-thirds (2/3) of the total voting membership, to repair, replace, or reconstruct the premises in accordance with the original plan in a different manner than tl1at proposed by the Board. In any case, however, use of hazard insurance proceeds for other than repair, replacement, or reconstruction of the common areas in accordance with the original phns shall not be permitted without the prior approval of two-thirds (2/3) of the total voting membership. 
+If the insurance proceeds are insufficient to pay for the cost to repair the common areas, the Board shall promptly, but in no event later than ninety (90) days after the date of damage or destruction, give notice to and conduct a special meeting of the owners to review the proposed repairs, replacement, and reconstruction, as well as the projected cost of such repairs, replacement or reconstruction. The owners shall be deemed to have approved the proposed repairs, replacement, and reconstruction as proposed by the Board at that meeting, unless the owners decide by an affirmative vote of two-thirds (2/3) of the total voting membership, to repair, replace, or reconstruct the premises in accordance with the original plan in a different manner than tl1at proposed by the Board. In any case, however, use of hazard insurance proceeds for other than repair, replacement, or reconstruction of the common areas in accordance with the original phns shall not be permitted without the prior approval of two-thirds (2/3) of the total voting membership. 
 
 ## ARTICLE X<br>Condemnation 
 
@@ -253,19 +253,19 @@ In the event that the entire common area is taken or condemned, or sold, or othe
 
 ### Section 1.
 
-As used in tlus Declaration: (1) "mortgage'' includes any deed of trust or other security instrument; (2) "mortgagee" includes the beneficiary of a deed of trust, a secured party, or other holder of a security interest; (3) "foreclosure" includes a notice and sale proceeding pursuant to a deed of trust or sale on default under a security agreement; and (4) "institutional holder" means a mortgagee which is a bank or savings and loan association or established mortgage company, or other entity chartered under federal or state laws, any corporation or insurance company, or any federal or state agency. 
+As used in the Declaration: (1) "mortgage" includes any deed of trust or other security instrument; (2) "mortgagee" includes the beneficiary of a deed of trust, a secured party, or other holder of a security interest; (3) "foreclosure" includes a notice and sale proceeding pursuant to a deed of trust or sale on default under a security agreement; and (4) "institutional holder" means a mortgagee which is a bank or savings and loan association or established mortgage company, or other entity chartered under federal or state laws, any corporation or insurance company, or any federal or state agency. 
 
 ### Section 2.
 
 The approval of two-thirds (2/3) of the total voting membership shall be required for any of the following: 
 
-1. The abandonment or termination of tl1e PUD status of the project, except for abandonment or termination, if any, provided by law in the case of substantial destruction by fire or other casualty or in the case of a taking by condemnation or erninent domain. 
+1. The abandonment or termination of the PUD status of the project, except for abandonment or termination, if any, provided by law in the case of substantial destruction by fire or other casualty or in the case of a taking by condemnation or erninent domain. 
 
 2. The effectuation of any decision by the owners association to initiate or terminate professional management and assume self-management of the project. Any management agreement for the project shall be terminable by the Association for cause upon thirty (30) days written notice thereof, and the term of any such agreement may not exceed one year, renewable by agreement of the parties for successive one-year periods. 
 
 3. Partitioning or subdividing any lot.
     
-4. Any act or omission seeking to abandon, partition, subdivide, encumber, sell or transfer the common areds; prnvided, · however, that the granting of easements for public utilities or other public purposes consistent with the intended use of the common areas shall not be deemed a transfer within the meaning of this clause.
+4. Any act or omission seeking to abandon, partition, subdivide, encumber, sell or transfer the common areds; prnvided, however, that the granting of easements for public utilities or other public purposes consistent with the intended use of the common areas shall not be deemed a transfer within the meaning of this clause.
 
 ### Section 3.
 
