@@ -6,11 +6,11 @@ title: Governance
 
 ### Articles of Incorporation
 
-Our [Articles of Incorporation]({% link governance/articles-of-incorporation.md %})…
+Our [Articles of Incorporation]({% link governance/articles-of-incorporation.md %}) define the basic purpose and structure of our organization.
 
 ### By-Laws
 
-Our [By-Laws]({% link governance/by-laws.md %}) dictate how our organization operates.
+Our [By-Laws]({% link governance/by-laws.md %}) dictate how our organization operates (meeting frequency, voting procedures, etc.).
 
 ### Covenants, Conditions, and Restrictions
 
