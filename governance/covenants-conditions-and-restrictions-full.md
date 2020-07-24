@@ -1,6 +1,5 @@
 ---
 title: Declaration of Covenants, Conditions and Restrictions
-permalink: /covenants-conditions-and-restrictions
 ---
 
 # FIRST AMENDMENT TO<br>DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS<br>OF HERONWOOD ESTATES HOMEOWNERS ASSOCIATION<br>aka QUAIL RUN ESTATES HOMEOWNERS ASSOCIATION
