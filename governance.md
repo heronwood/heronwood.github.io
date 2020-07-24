@@ -19,11 +19,11 @@ title: Governance
 
 ### Architectural Control Committee
 
-{% if site.acc_members %}
+{% if 0 < site.acc_members.size %}
   {% for member in site.acc_members %}
 * {{ member.title }} - {{ member.name }} {% endfor %}
 {% else %}
-We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the Board of Directors.
+We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
 
 ## Frequently Asked Questions
