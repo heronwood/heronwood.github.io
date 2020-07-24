@@ -4,7 +4,7 @@ title: Contact
 
 ## Email Address
 
-You can email the board of directors at <board@heronwood.org>. We will do our best to respond to your inquiry within a day or two.
+You can email the [Board of Directors]({% link governance %}#board-of-directors) at <board@heronwood.org>. They will do their best to respond to your inquiry within a day or two.
 
 ## Mailing Address
 
@@ -14,6 +14,12 @@ Gig Harbor, WA 98335
 
 ## Architectural Modification Requests
 
+Architectural modification requests must be submitted for approval using the [Architecural Modification Request form]({% link contact/architectural-request-form.pdf %}).
+
+This form can be [filled out on-line](about:blank) or the [document](({% link contact/architectural-request-form.pdf %})) can be completed and [emailed](mailto:board@heronwood.org) or [mailed](#mailing-address). The Architectural Control Committee will approve/modify/disapprove the request within 10 days.
+
 ## Complaints
 
-As per our [CC&Rs]({% link governance/covenants-conditions-and-restrictions.md %}), association members are encouraged to attempt resolution with the affected parties. If resolution cannot be accomplished, complaints must be submitted to the Board of Directors for resolution.
+As per our [CC&Rs]({% link governance/covenants-conditions-and-restrictions.md %}), association members are encouraged to attempt resolution with the affected parties. If resolution cannot be accomplished, complaints must be submitted for resolution using the [Homeowners Association Complaint form](%{ link contact/homeowners-association-complaint.pdf %}).
+
+This form can be [filled out on-line](about:blank) or the [document]({% link governance/covenants-conditions-and-restrictions.md %}) can be completed and [emailed](mailto:board@heronwood.org) or [mailed](#mailing-address). The Board of Directors will respond within 15 days.
