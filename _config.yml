@@ -5,6 +5,10 @@ collections:
   acc_members:
     output: false
   board_members:
+    order:
+      - president.md
+      - secretary.md
+      - treasurer.md
     output: false
   events:
     output: true
