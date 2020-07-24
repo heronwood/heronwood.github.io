@@ -16,7 +16,7 @@ Gig Harbor, WA 98335
 
 Architectural modification requests must be submitted for approval using the [Architecural Modification Request form]({% link contact/architectural-request-form.pdf %}).
 
-This form can be [filled out on-line](about:blank) or the [document](({% link contact/architectural-request-form.pdf %})) can be completed and [emailed](mailto:board@heronwood.org) or [mailed](#mailing-address). The Architectural Control Committee will approve/modify/disapprove the request within 10 days.
+This form can be [filled out on-line](about:blank) or the [document]({% link contact/architectural-request-form.pdf %}) can be completed and [emailed](mailto:board@heronwood.org) or [mailed](#mailing-address). The Architectural Control Committee will approve/modify/disapprove the request within 10 days.
 
 ## Complaints
 
