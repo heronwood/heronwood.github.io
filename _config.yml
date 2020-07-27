@@ -11,7 +11,6 @@ collections:
       - treasurer.md
     output: false
   events:
-    layout: event
     output: true
     permalink: /:collection/:name
 defaults:
@@ -19,5 +18,10 @@ defaults:
       path: ''
     values:
       layout: default
+  - scope:
+      path: ''
+      type: 'events'
+    values:
+      layout: event
 permalink: /:path/:basename
 timezone: America/Los_Angeles
