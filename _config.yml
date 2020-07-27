@@ -11,6 +11,7 @@ collections:
       - treasurer.md
     output: false
   events:
+    layout: event
     output: true
     permalink: /:collection/:name
 defaults:
