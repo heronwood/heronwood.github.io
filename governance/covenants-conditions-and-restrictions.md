@@ -119,7 +119,7 @@ If an ACC is elected by the Association members, its decisions shall be final an
 None of the following actions may be taken until plans and specifications for the same have been approved in writing by the Board of Directors or by the Architectural Control Committee: 
 
 1. Clearing of any lot.
-2. Removal any growing tree larger than 1O" at its base.
+2. Removal any growing tree larger than 10" at its base.
 3. Construction of any building or structure, including outbuildings, fences, and walls.
 4. Alteration of the exterior of any building or improvement, including any change in exterior color and type of roof other than architectural grade shingles, shakes, tile or high-grade metal as approved at the May, 2001 Association meeting.
 5. Excavation, grading or removal of dirt, except as may be necessary for the construction of any improvement approved by the ACC.
