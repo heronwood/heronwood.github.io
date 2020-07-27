@@ -98,7 +98,7 @@ Both monthly and special assessments shall be fixed at a uniform rate per lot.
 
 ### Section 7. Annual Assessments: Due Dates.
 
-The annual assessments for the current calendar year shall be due and payable January 15th of each year. The due date of any special assessment shall be fixed by the Board of Directors. The Association shall, upon demand, and for a reasonable charge, furnish a certificate signed by an officer of t.he Association setting forth whether the annual or special assessment on a specified lot has been paid. 
+The annual assessments for the current calendar year shall be due and payable January 15th of each year. The due date of any special assessment shall be fixed by the Board of Directors. The Association shall, upon demand, and for a reasonable charge, furnish a certificate signed by an officer of the Association setting forth whether the annual or special assessment on a specified lot has been paid. 
 
 ### Section 8. Effect of Nonpayment of Annual or Special Assessments: Remedies of the Association.
 
