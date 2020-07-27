@@ -59,3 +59,7 @@ Per our CC&Rs ([Article V, Section 2]({% link governance/covenants-conditions-an
 Additionally, according to [Article VII, Section 16]({% link governance/covenants-conditions-and-restrictions.md %}#section-16):
 
 > No changes in landscaping, nor removal or trimming of trees, lawns, or shrubs will be permitted within the common areas without written authorization of the Board or the Architectural Control Committee.
+
+### How much are our HOA fees, and when are they due?
+
+Heronwood Estates has an annual fee (also known as an *annual assessment*) of $120 per lot per year. The assessment is due on January 15th each year and must be paid within 30 days.
