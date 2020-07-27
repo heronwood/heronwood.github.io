@@ -54,11 +54,14 @@ table.events {
     align-items: center;
     display: flex;
     flex-direction: column;
-    white-space: pre;
-    width: 1px;
+  }
 
-    .date {
-      font-size: 150%;
-    }
+  .details {
+    width: 100%;
+  }
+
+  .day,
+  .title {
+    font-size: 150%;
   }
 }
