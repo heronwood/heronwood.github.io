@@ -8,7 +8,7 @@ The following legal documents describe how our association is governed.
 
 ### Articles of Incorporation
 
-Our [Articles of Incorporation]({% link governance/articles-of-incorporation.md %}) define the basic purpose and structure of our association.
+Our [Articles of Incorporation](governance/articles-of-incorporation.md) define the basic purpose and structure of our association.
 
 ### By-Laws
 
