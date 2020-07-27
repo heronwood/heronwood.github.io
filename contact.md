@@ -4,7 +4,7 @@ title: Contact
 
 ## Email Address
 
-You can email the [Board of Directors]({governance.md#board-of-directors) at <board@heronwood.org>. They will do their best to respond to your inquiry within a day or two.
+You can email the [Board of Directors](governance.md#board-of-directors) at <board@heronwood.org>. They will do their best to respond to your inquiry within a day or two.
 
 ## Mailing Address
 
