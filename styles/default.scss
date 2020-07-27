@@ -33,3 +33,32 @@ body {
     border-top: 1px solid #ccc;
   }
 }
+
+table.events {
+  border-collapse: collapse;
+  width: 100%;
+
+  tr {
+    border-bottom: 1px solid #ccc;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  td {
+    padding: 1em;
+  }
+
+  .when {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    white-space: pre;
+    width: 1px;
+
+    .date {
+      font-size: 150%;
+    }
+  }
+}
