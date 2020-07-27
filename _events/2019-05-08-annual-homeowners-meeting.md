@@ -1,6 +1,6 @@
 ---
 title: 2019 Annual Homeowners Meeting
-date: 2019-05-08 19:00:00
+date: 2019-05-08 19:00:00 -7000
 location: Gig Harbor Library
 ---
 
