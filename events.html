@@ -10,7 +10,7 @@ title: Events
         <div class="time">{{ event.date | date: '%l:%M%P' }}</div>
       </td>
       <td class="details">
-        <div class="title">[{{ event.title }}]({{ event.url }})</div>
+        <div class="title"><a href="{{ event.url }}">{{ event.title }}</a></div>
         <div class="location">{{ event.location }}</div>
       </td>
     </tr>
