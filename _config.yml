@@ -19,3 +19,4 @@ defaults:
     values:
       layout: default
 permalink: /:path/:basename
+timezone: America/Los_Angeles
