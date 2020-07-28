@@ -1,6 +1,6 @@
 ---
 title: 2018 Annual Homeowners Meeting
-date: 2018-05-22 19:00:00 -7000
+date: 2018-05-22 19:00:00 -0700
 location: Gig Harbor Library
 ---
 
