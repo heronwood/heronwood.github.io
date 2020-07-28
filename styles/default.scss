@@ -1,37 +1,118 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Inter&family=Oswald&display=swap');
+
 body {
-  font: 100% sans-serif;
+  background: #333;
+  color: #ccc;
+  font: 100% 'Inter', sans-serif;
+  margin: 0;
 }
 
-#container {
+nav {
+  align-items: center;
+  background: #fff;
+  color: #333;
   display: flex;
-  flex-direction: column;
-  margin: 0 auto;
-  max-width: 800px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1em;
 
-  nav {
-    align-items: baseline;
-    border-bottom: 1px solid #ccc;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  h1 {
+    margin: 0;
+    width: 400px;
 
-    ul {
-      display: flex;
-      flex-direction: row;
+    a {
+      color: #333;
 
-      li {
-        list-style: none;
-        margin-left: 1em;
+      &:hover {
+        color: #666;
       }
     }
   }
 
-  footer {
-    border-top: 1px solid #ccc;
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+
+    li {
+      list-style: none;
+      margin-left: 2em;
+      text-transform: uppercase;
+    }
+
+    a {
+      color: #666;
+
+      &:hover {
+        color: #000;
+      }
+    }
   }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+article {
+  background: #fff;
+  color: #333;
+  line-height: 1.5;
+
+  & > header {
+    background: #ccc;
+
+    h1 {
+      font-size: 200%;
+      margin: 0 auto;
+      padding: 3em 1em 1em;
+      text-transform: uppercase;
+      width: 800px;
+    }
+  }
+
+  img {
+    max-width: 800px;
+  }
+}
+
+section {
+  display: block;
+  margin: 0 auto;
+  padding: 1em;
+  width: 800px;
+}
+
+footer {
+  display: block;
+  margin: 0 auto;
+  padding: 1em;
+  width: 800px;
+}
+
+dl {
+  overflow: hidden;
+}
+
+dt {
+  clear: both;
+  float: left;
+  font-weight: bold;
+
+  &::after {
+    content: ":\00A0";
+  }
+}
+
+dd {
+  float: left;
+  margin: 0;
 }
 
 .events {
@@ -39,14 +120,16 @@ body {
   padding: 0;
 
   li {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px dotted #ccc;
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 1em;
+    margin: 1em 0;
+    padding: 0 0 1em 0;
 
     &:last-child {
       border-bottom: 0;
+      padding: 0;
     }
   }
 
@@ -54,11 +137,16 @@ body {
     align-items: center;
     display: flex;
     flex-direction: column;
-    width: 8em;
+    padding: 0 1em;
+    width: 6em;
   }
 
   .day,
   .title {
     font-size: 150%;
+  }
+
+  .day {
+    font-weight: bold;
   }
 }
