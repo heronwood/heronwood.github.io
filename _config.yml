@@ -21,6 +21,8 @@ collections:
   events:
     output: true
     permalink: /:collection/:name
+  faqs:
+    output: false
 defaults:
   - scope:
       path: ''
