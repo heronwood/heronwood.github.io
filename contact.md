@@ -4,7 +4,7 @@ title: Contact
 
 ## Mailing List
 
-Sign up for the association's mailing list to stay up-to-date on neighborhood happenings, like summer barbeques, work parties, and association meetings.
+Sign up for the association's mailing list to stay up-to-date on neighborhood happenings, like summer barbecues, work parties, and association meetings.
 
 {% include mailing_list.html %}
 
