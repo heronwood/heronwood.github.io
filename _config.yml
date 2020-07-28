@@ -1,14 +1,14 @@
 url: https://heronwood.org
 title: Heronwood Estates Homeowners’ Association
-markdown: GFM
+markdown: CommonMarkGhPages
 commonmark:
   options:
+    - FOOTNOTES
     - SMART
-    - UNSAFE
   extensions:
-    - tagfilter
-    - strikethrough
     - autolink
+    - strikethrough
+    - table
 collections:
   acc_members:
     output: false
