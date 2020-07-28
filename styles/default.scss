@@ -66,13 +66,21 @@ article {
   line-height: 1.5;
 
   & > header {
-    background: #ccc;
+    background: #666;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    height: 15em;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-end;
 
     h1 {
-      font-size: 200%;
+      font-size: 300%;
+      line-height: 1.2;
       margin: 0 auto;
-      padding: 3em 1em 1em;
-      text-transform: uppercase;
+      padding: 1em;
+      text-shadow: 2px 2px 10px black;
       width: 800px;
     }
   }
