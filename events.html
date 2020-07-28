@@ -2,18 +2,18 @@
 title: Events
 ---
 
-<table class="events">
+<ol class="events">
   {% for event in site.events reversed %}
-    <tr>
-      <td class="when">
-        <div class="year">{{ event.date | date: '%Y' }}</div>
-        <div class="day">{{ event.date | date: '%b %e' }}</div>
-        <div class="time">{{ event.date | date: '%l:%M%P' }}</div>
-      </td>
-      <td class="details">
+    <li>
+      <div class="when">
+        <span class="year">{{ event.date | date: '%Y' }}</span>
+        <span class="day">{{ event.date | date: '%b %e' }}</span>
+        <span class="time">{{ event.date | date: '%l:%M%P' }}</span>
+      </div>
+      <div class="details">
         <div class="title"><a href="{{ event.url }}">{{ event.title }}</a></div>
         <div class="location">{{ event.location }}</div>
-      </td>
-    </tr>
+      </div>
+    </li>
   {% endfor %}
-</table>
+</ol>
