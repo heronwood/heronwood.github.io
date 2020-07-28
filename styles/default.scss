@@ -77,6 +77,13 @@ article {
     }
   }
 
+  blockquote {
+    border-left: 0.25em solid #ccc;
+    color: #666;
+    margin: 0;
+    padding: 0 1em;
+  }
+
   img {
     max-width: 800px;
   }
