@@ -17,3 +17,5 @@ Per our CC&Rs ([Article V, Section 2](governance/covenants-conditions-and-restri
 Additionally, according to [Article VII, Section 16](governance/covenants-conditions-and-restrictions.md#section-16):
 
 > No changes in landscaping, nor removal or trimming of trees, lawns, or shrubs will be permitted within the common areas without written authorization of the Board or the Architectural Control Committee.
+
+In order to request approval, please submit an [Architectural Modification Request](contact.md#architectural-modification-requests).
