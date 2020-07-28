@@ -34,31 +34,27 @@ body {
   }
 }
 
-table.events {
-  border-collapse: collapse;
-  width: 100%;
+.events {
+  list-style: none;
+  padding: 0;
 
-  tr {
+  li {
     border-bottom: 1px solid #ccc;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1em;
 
     &:last-child {
       border-bottom: 0;
     }
   }
 
-  td {
-    padding: 1em;
-  }
-
   .when {
     align-items: center;
     display: flex;
     flex-direction: column;
-    white-space: nowrap;
-  }
-
-  .details {
-    width: 100%;
+    width: 8em;
   }
 
   .day,
