@@ -4,7 +4,7 @@ markdown: GFM
 commonmark:
   options:
     - SMART
-    - FOOTNOTES
+    - UNSAFE
 collections:
   acc_members:
     output: false
