@@ -5,6 +5,10 @@ commonmark:
   options:
     - SMART
     - UNSAFE
+  extensions:
+    - tagfilter
+    - strikethrough
+    - autolink
 collections:
   acc_members:
     output: false
