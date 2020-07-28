@@ -27,3 +27,9 @@ The following elected bodies are responsible for governing our association.
 {% else %}
 We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
+
+## Treasurer's Reports
+
+{% assign reports = site.static_files | where: 'report', true %}
+{% for report in reports reversed %}
+* [{{ report.basename}} ]({{ report.path }}){% endfor %}

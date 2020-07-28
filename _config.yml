@@ -33,5 +33,9 @@ defaults:
       type: 'events'
     values:
       layout: event
+  - scope:
+      path: 'reports/*'
+    values:
+      report: true
 permalink: /:path/:basename
 timezone: America/Los_Angeles
