@@ -3,6 +3,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Exo&family=Inter&family=Oswald&display=swap');
 
+@font-face {
+  font-family: 'Mistral';
+  src: url('/fonts/mistral.woff2') format('woff2'), url('/fonts/mistral.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
   background: #333;
   color: #ccc;
@@ -17,10 +25,13 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding: 1em;
+  padding: 2em 1em;
 
   h1 {
+    font-family: Mistral, serif;
+    font-size: 3em;
     margin: 0;
+    transform: rotate(-5deg);
     width: 400px;
 
     a {
@@ -80,7 +91,7 @@ article {
       line-height: 1.2;
       margin: 0 auto;
       padding: 1em;
-      text-shadow: 2px 2px 10px black;
+      text-shadow: 2px 2px 15px black;
       width: 800px;
     }
   }
