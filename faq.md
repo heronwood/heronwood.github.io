@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+banner: /images/20200324_145524.jpg
 ---
 
 ## Questions

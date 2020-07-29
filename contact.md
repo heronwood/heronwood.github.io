@@ -1,5 +1,6 @@
 ---
 title: Contact
+banner: /images/20200324_150228.jpg
 ---
 
 ## Mailing List

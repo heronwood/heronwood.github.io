@@ -1,5 +1,6 @@
 ---
 title: Governance
+banner: /images/20200510_174406.jpg
 ---
 
 ## Governing Documents
