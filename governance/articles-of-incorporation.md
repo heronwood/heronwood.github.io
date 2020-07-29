@@ -1,5 +1,7 @@
 ---
 title: Articles of Incorporation
+layout: document
+original: /governance/articles-of-incorporation.pdf
 ---
 
 # ARTICLES OF AMENDMENT<br>OF<br>THE ARTICLES OF INCORPORATION<br>OF<br>HERONWOOD ESTATES HOMEOWNERS ASSOCIATION<br>aka<br>QUAIL RUN ESTATES HOMEOWNERS ASSOCIATION 
