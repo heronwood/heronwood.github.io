@@ -16,20 +16,30 @@ The following elected bodies are responsible for governing our association.
 
 ### Board of Directors
 
+<ul class="profiles">
 {% for member in site.board_members %}
-* {{ member.title }} - {{ member.name }} {% endfor %}
+  <li>
+    <img src="{{ member.photo }}" alt="photo of {{ member.name }}" />
+    <span class="title">{{ member.title }}</span>
+    <span class="name">{{ member.name }}</span>
+  </li>
+{% endfor %}
+</ul>
 
 ### Architectural Control Committee
 
 {% if 0 < site.acc_members.size %}
   {% for member in site.acc_members %}
-* {{ member.title }} - {{ member.name }} {% endfor %}
+* {{ member.name }}{% endfor %}
 {% else %}
 We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
 
 ## Treasurer's Reports
 
+<ul class="reports">
 {% assign reports = site.static_files | where: 'report', true %}
 {% for report in reports reversed %}
-* [{{ report.basename}} ]({{ report.path }}){% endfor %}
+  <li><a href="{{ report.path }}">{{ report.basename }}</a></li>
+{% endfor %}
+</ul>
