@@ -23,7 +23,6 @@ nav {
   background: #fff;
   color: #333;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   padding: 2em 1em;
 
@@ -32,7 +31,6 @@ nav {
     font-size: 3em;
     margin: 0;
     transform: rotate(-5deg);
-    width: 400px;
 
     a {
       color: #333;
@@ -49,7 +47,6 @@ nav {
     justify-content: flex-end;
     margin: 0;
     padding: 0;
-    width: 400px;
 
     li {
       list-style: none;
@@ -77,23 +74,48 @@ article {
   line-height: 1.5;
 
   & > header {
+    align-items: stretch;
     background: #666;
     background-attachment: fixed;
     background-size: cover;
     color: #fff;
-    height: 15em;
     display: flex;
     flex-flow: column nowrap;
     justify-content: flex-end;
+    min-height: 10em;
+    padding: 2em 1em;
 
     h1 {
       font-size: 300%;
       line-height: 1.2;
       margin: 0 auto;
-      padding: 1em;
       text-shadow: 0 0 15px #000;
-      width: 800px;
     }
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    border-bottom: 1px dotted #ccc;
+    font-size: 1.6em;
+  }
+
+  h3 {
+    font-size: 1.4em;
+  }
+
+  h4 {
+    font-size: 1.2em;
+  }
+
+  h5 {
+    font-size: 1.1em;
+  }
+
+  h6 {
+    font-size: 1em;
   }
 
   blockquote {
@@ -104,7 +126,7 @@ article {
   }
 
   img {
-    max-width: 800px;
+    max-width: 100%;
   }
 }
 
@@ -112,14 +134,12 @@ section {
   display: block;
   margin: 0 auto;
   padding: 1em;
-  max-width: 800px;
 }
 
 footer {
   display: block;
   margin: 0 auto;
   padding: 1em;
-  width: 800px;
 }
 
 dl {
@@ -162,9 +182,9 @@ dd {
   .when {
     align-items: center;
     display: flex;
-    flex-direction: column;
+    flex: 0 0 6em;
+    flex-flow: column nowrap;
     padding: 0 1em;
-    width: 6em;
   }
 
   .day,
@@ -226,4 +246,46 @@ dd {
   border-radius: 5px;
   margin: 1em 0;
   padding: 0 1em;
+}
+
+@media only screen and (max-width: 959px) {
+  nav {
+    flex-direction: column;
+
+    ul {
+      margin-top: 2em;
+    }
+  }
+
+  article {
+    & > header {
+      h1 {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  nav {
+    flex-direction: row;
+
+    h1,
+    ul {
+      width: 400px;
+    }
+  }
+
+  article {
+    & > header {
+      h1 {
+        width: 800px;
+      }
+    }
+  }
+
+  section,
+  footer {
+    width: 800px;
+  }
 }
