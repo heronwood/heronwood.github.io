@@ -206,7 +206,8 @@ dd {
 
   li {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
+    margin: 0.5em 1em;
     text-align: center;
   }
 
