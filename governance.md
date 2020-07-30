@@ -1,19 +1,21 @@
 ---
 title: Governance
+description: Learn about the protections provided by our HOA and who our volunteers are.
 banner: /images/20200510_174406.jpg
+navigation: 2
 ---
 
 ## Governing Documents
 
-The following legal documents describe how our association is governed:
+The following documents describe how our association is governed:
 
 * Our [Articles of Incorporation](governance/articles-of-incorporation.md) define the basic purpose and structure of our association.
 * Our [By-Laws](governance/by-laws.md) dictate how our association operates (meeting frequency, voting procedures, etc.).
 * Our [Covenants, Conditions, and Restrictions](governance/covenants-conditions-and-restrictions.md) spell out the rights and obligations that the association has to its members and vice versa.
 
-## Governing Bodies
+## Boards and Committies
 
-The following elected bodies are responsible for governing our association.
+These fellow Heronwood Estates homeowners have been elected as volunteer members of the governing bodies that serve our association.
 
 ### Board of Directors
 

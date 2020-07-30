@@ -1,5 +1,6 @@
 ---
 title: What actions require approval from the Architectural Control Committee?
+priority: 2
 ---
 
 Per our CC&Rs ([Article V, Section 2]({% link governance/covenants-conditions-and-restrictions.md %}#section-2-approval-required)), the following actions require approval:

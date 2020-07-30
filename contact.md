@@ -1,6 +1,8 @@
 ---
 title: Contact
+description: Sign up for our mailing list or contact the board about your questions, architectural approvals, or complaints.
 banner: /images/20200324_150228.jpg
+navigation: 4
 ---
 
 ## Mailing List
