@@ -29,6 +29,7 @@ nav {
   h1 {
     font-family: Mistral, serif;
     font-size: 3em;
+    font-weight: normal;
     margin: 0;
     transform: rotate(-5deg);
 
@@ -41,10 +42,6 @@ nav {
     }
   }
 
-  #nav-toggle {
-    display: none;
-  }
-
   ul {
     display: flex;
     flex-direction: row;
@@ -54,7 +51,6 @@ nav {
 
     li {
       list-style: none;
-      margin-left: 2em;
       text-transform: uppercase;
     }
 
@@ -81,7 +77,6 @@ article {
     align-items: stretch;
     background: #000;
     background-position: center center;
-    background-size: cover;
     color: #fff;
     display: flex;
     flex-flow: column nowrap;
@@ -94,6 +89,7 @@ article {
       line-height: 1.2;
       margin: 0 auto;
       text-shadow: 0 0 15px #000;
+      width: 100%;
     }
   }
 
@@ -254,109 +250,32 @@ dd {
 
 @media only screen and (max-width: 479px) {
   nav {
-    padding-right: 64px;
-
-    #nav-toggle {
-      display: block;
-      cursor: pointer;
-      position: absolute;
-      top: 16px;
-      right: 16px;
-      width: 32px;
-      height: 32px;
-
-      &:before {
-        background: #000;
-        border-radius: 5px;
-        color: #ccc;
-        content: "\2261";
-        display: inline-block;
-        font-size: 32px;
-        line-height: 0.85;
-        text-align: center;
-        width: 32px;
-        height: 32px;
-      }
-
-      &:hover:before {
-        color: #fff;
-      }
-
-      &:checked:before {
-        content: "\2715";
-      }
-
-      & ~ ul {
-        display: none;
-      }
-
-      &:checked ~ ul {
-        display: flex;
-      }
-    }
+    flex-flow: row nowrap;
+    justify-content: space-between;
 
     ul {
-      position: absolute;
-      border-radius: 5px;
-      box-shadow: 1px 1px 5px #333;
       flex-flow: column nowrap;
-      padding: 0;
-      top: 24px;
-      right: 16px;
-
-      li {
-        border-bottom: 1px solid #333e;
-        margin: 0;
-        text-transform: inherit;
-        text-align: right;
-
-        &:last-child {
-          border-bottom: 0;
-        }
-
-        a {
-          background: #000e;
-          color: #ccc;
-          display: block;
-          padding: 1em 1em 1em 3em;
-
-          &:hover {
-            color: #fff;
-          }
-        }
-
-        &:first-child a {
-          border-radius: 5px 5px 0 0;
-        }
-
-        &:last-child a {
-          border-radius: 0 0 5px 5px;
-        }
-      }
-    }
-  }
-
-  article {
-    & > header {
-      min-height: 5em;
+      align-items: flex-end;
     }
   }
 }
 
-@media only screen and (max-width: 959px) {
+@media only screen and (min-width: 480px) {
+  nav {
+    ul {
+      li {
+        margin-left: 2em;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 959px) {
   nav {
     flex-direction: column;
 
     ul {
       margin-top: 2em;
-    }
-  }
-
-  article {
-    & > header {
-      h1 {
-        width: 100%;
-      }
     }
   }
 }
@@ -373,6 +292,8 @@ dd {
 
   article {
     & > header {
+      background-size: cover;
+
       h1 {
         width: 800px;
       }
