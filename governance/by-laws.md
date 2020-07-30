@@ -4,8 +4,6 @@ layout: document
 original: /governance/by-laws.pdf
 ---
 
-# BY-LAWS<br>OF HERONWOOD ESTATES HOMEOWNERS ASSOCIATION<br>aka QUAIL RUN ESTATES HOMEOWNERS ASSOCIATION 
-
 ## ARTICLE I<br>Applicability; Definitions; Location 
 
 ### Section 1. Applicability.
