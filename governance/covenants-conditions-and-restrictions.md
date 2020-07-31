@@ -302,7 +302,7 @@ The Association or any owner or the holder of any recorded mortgage on any part 
 
 ### Section 3. Severability.
 
-Invalidation of any one of these covenants or restr1ct10ns by judgment or court order shall in no way affect any other provisions which shall remain in full force and effect. 
+Invalidation of any one of these covenants or restrictions by judgment or court order shall in no way affect any other provisions which shall remain in full force and effect. 
 
 ### Section 4. Amendment.
 
