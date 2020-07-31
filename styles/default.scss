@@ -82,14 +82,14 @@ article {
     display: flex;
     flex-flow: column nowrap;
     justify-content: flex-end;
-    min-height: 10em;
-    padding: 2em 1em 1em;
+    min-height: 20em;
+    padding: 1em 1em 0em;
 
     h1 {
-      font-size: 300%;
-      line-height: 1.2;
+      font-size: 3em;
+      line-height: 1;
       margin: 0 auto;
-      text-shadow: 0 0 15px #000;
+      text-shadow: 0 0 10px #000;
       width: 100%;
     }
   }
@@ -303,9 +303,7 @@ dd {
 
   article {
     & > header {
-      h1 {
-        font-size: 2em;
-      }
+      min-height: 15em;
     }
   }
 }
