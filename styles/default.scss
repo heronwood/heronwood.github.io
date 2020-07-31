@@ -138,9 +138,22 @@ section {
 }
 
 footer {
-  display: block;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
   margin: 0 auto;
   padding: 1em;
+
+  &:before {
+    content: "Heronwood";
+    color: #fff;
+    display: block;
+    font-family: Mistral, serif;
+    font-size: 2em;
+    margin: 0 1em 0 0;
+    transform: rotate(-5deg);
+  }
 }
 
 dl {
