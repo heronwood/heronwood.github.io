@@ -6,7 +6,7 @@ priority: 2
 Per our CC&Rs ([Article V, Section 2]({% link governance/covenants-conditions-and-restrictions.md %}#section-2-approval-required)), the following actions require approval:
 
 > 1. Clearing of any lot.
-> 2. Removal any growing tree larger than 10" at its base.
+> 2. Removal of any growing tree larger than 10" at its base.
 > 3. Construction of any building or structure, including outbuildings, fences, and walls.
 > 4. Alteration of the exterior of any building or improvement, including any change in exterior color and type of roof other than architectural grade shingles, shakes, tile or high-grade metal.
 > 5. Excavation, grading or removal of dirt.
