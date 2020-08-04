@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Exo&family=Inter&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 @font-face {
   font-family: 'Mistral';
@@ -14,7 +14,7 @@
 body {
   background: #000;
   color: #999;
-  font: 100% 'Inter', sans-serif;
+  font: 100% 'Nunito', sans-serif;
   margin: 0;
   -webkit-text-size-adjust: 100%;
 }
@@ -79,7 +79,7 @@ article {
     align-items: stretch;
     background: #000;
     background-position: center center;
-    border: 0 normal #fff;
+    border: 0 solid #fff;
     border-width: 10px 0;
     box-shadow: 0 0 5px #666;
     color: #fff;
