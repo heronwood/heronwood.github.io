@@ -22,6 +22,7 @@ body {
 nav {
   align-items: center;
   background: #fff;
+  box-shadow: 0 0 5px #666;
   color: #000;
   display: flex;
   justify-content: center;
@@ -139,6 +140,7 @@ section {
 }
 
 footer {
+  box-shadow: 0 0 5px #666;
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
@@ -256,7 +258,7 @@ dd {
     background: #ccc;
     border: 5px solid #fff;
     border-radius: 50%;
-    box-shadow: 1px 1px 5px #666;
+    box-shadow: 0 0 5px #666;
     height: 100px;
     margin: 0.5em 0;
     width: 100px;
