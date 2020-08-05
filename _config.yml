@@ -39,3 +39,5 @@ defaults:
       report: true
 permalink: /:path/:basename
 timezone: America/Los_Angeles
+googleAnalytics:
+  trackingId: UA-174574780-1
