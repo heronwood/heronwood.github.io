@@ -7,8 +7,8 @@ title: Welcome to Heronwood Estates
 <ul class="pages">
 {% for page in pages %}
   <li>
-    <a href="{{ page.url }}" style="background-image: url({{ page.banner }});">{{ page.title }}</a>
-    <p>{{ page.description }}</p>
+    <a href="{{ page.url }}" style="background-image: url({{ page.banner | escape }});">{{ page.title | escape }}</a>
+    <p>{{ page.description | escape }}</p>
   </li>
 {% endfor %}
 </ul>
