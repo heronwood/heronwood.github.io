@@ -22,9 +22,9 @@ These fellow Heronwood Estates homeowners have been elected as volunteer members
 <ul class="profiles">
 {% for member in site.board_members %}
   <li>
-    <img src="{{ member.photo }}" alt="photo of {{ member.name }}" />
-    <span class="title">{{ member.title }}</span>
-    <span class="name">{{ member.name }}</span>
+    <img src="{{ member.photo | escape }}" alt="photo of {{ member.name | escape }}" />
+    <span class="title">{{ member.title | escape }}</span>
+    <span class="name">{{ member.name | escape }}</span>
   </li>
 {% endfor %}
 </ul>
@@ -32,8 +32,9 @@ These fellow Heronwood Estates homeowners have been elected as volunteer members
 ### Architectural Control Committee
 
 {% if 0 < site.acc_members.size %}
-  {% for member in site.acc_members %}
-* {{ member.name }}{% endfor %}
+  {% for member in site.acc_members -%}
+* {{ member.name | escape }}
+  {% endfor %}
 {% else %}
 We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
@@ -43,6 +44,6 @@ We do not currently have an elected Architectural Control Committee. As such, al
 <ul class="reports">
 {% assign reports = site.static_files | where: 'report', true %}
 {% for report in reports reversed %}
-  <li><a href="{{ report.path }}">{{ report.basename }}</a></li>
+  <li><a href="{{ report.path | escape }}">{{ report.basename | escape }}</a></li>
 {% endfor %}
 </ul>
