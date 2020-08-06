@@ -19,4 +19,8 @@ banner: /images/20200324_145612.jpg
   {% endif %}
 </dl>
 
+{% if page.description %}
+<p>{{ page.description | escape }}</p>
+{% endif %}
+
 {{ content }}
