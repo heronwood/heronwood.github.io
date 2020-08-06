@@ -14,8 +14,8 @@ navigation: 1
         <span class="time">{{ event.date | date: '%l:%M%P' }}</span>
       </div>
       <div class="details">
-        <div class="title"><a href="{{ event.url }}">{{ event.title }}</a></div>
-        <div class="location">{{ event.location }}</div>
+        <div class="title"><a href="{{ event.url | escape }}">{{ event.title | escape }}</a></div>
+        <div class="location">{{ event.location | escape }}</div>
       </div>
     </li>
   {% endfor %}
