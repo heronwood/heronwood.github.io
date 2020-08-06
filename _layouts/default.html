@@ -7,7 +7,7 @@ banner: '/images/20200324_145356.jpg'
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    <title>{{ page.title }} — {{ site.title }}</title>
+    <title>{{ page.title | escape }} — {{ site.title | escape }}</title>
     {% include gtag.html trackingId=site.googleAnalytics.trackingId %}
     <link rel="preload" as="font" href="/fonts/mistral.woff" type="font/woff" crossorigin="anonymous" />
     <link rel="preload" as="font" href="/fonts/mistral.woff2" type="font/woff2" crossorigin="anonymous" />
@@ -26,8 +26,8 @@ banner: '/images/20200324_145356.jpg'
       </ul>
     </nav>
     <article>
-      <header style="background-image: url({{ page.banner | default: layout.banner }});">
-        <h1>{{ layout.title | default: page.title }}</h1>
+      <header style="background-image: url({{ page.banner | default: layout.banner | escape }});">
+        <h1>{{ layout.title | default: page.title | escape }}</h1>
       </header>
       <section>
         {{ content }}
