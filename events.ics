@@ -23,6 +23,9 @@ DURATION:{{ page.duration }}
 SUMMARY:{{ event.title }}
 LOCATION:{{ event.location }}
 URL:{{ site.url }}{{ event.url }}
+{% if event.description -%}
+DESCRIPTION:{{ event.description }}
+{% endif -%}
 END:VEVENT
 {% endfor -%}
 END:VCALENDAR
