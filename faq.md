@@ -9,8 +9,9 @@ navigation: 3
 
 {% assign faqs = site.faqs | sort: 'priority' %}
 
-{% for question in faqs %}
-* [{{ question.title }}](#{{ question.title | slugify }}){% endfor %}
+{% for question in faqs -%}
+* [{{ question.title }}](#{{ question.title | slugify }})
+{% endfor %}
 
 Have another question that isn't answered here? Try [reading our governing documents](governance.md#governing-documents) or [contacting the Board of Directors](contact.md).
 
