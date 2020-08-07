@@ -5,13 +5,13 @@ domain: heronwood.org
 organizer:
   name: Heronwood Estates HOA Board
   mailto: board@heronwood.org
-duration: PT1H
+defaultDuration: PT1H
 dateFormat: '%Y%m%dT%H%M%S'
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
-{% for event in site.events reversed -%}
+{%- for event in site.events reversed %}
 BEGIN:VEVENT
 UID:{{ event.url }}@{{ page.domain }}
 DTSTAMP:{{ event.date | date: page.dateFormat }}
@@ -19,13 +19,18 @@ DTSTAMP;TZID=US-Pacific:{{ event.date | date: page.dateFormat }}
 ORGANIZER;CN={{ page.organizer.name }}:MAILTO:{{ page.organizer.mailto }}
 DTSTART:{{ event.date | date: page.dateFormat }}
 DTSTART;TZID=US-Pacific:{{ event.date | date: page.dateFormat }}
-DURATION:{{ page.duration }}
+  {%- if event.endDate %}
+DTEND:{{ event.endDate | date: page.dateFormat }}
+DTEND;TZID=US-Pacific:{{ event.endDate | date: page.dateFormat }}
+  {%- else %}
+DURATION:{{ page.defaultDuration }}
+  {%- endif %}
 SUMMARY:{{ event.title }}
 LOCATION:{{ event.location }}
 URL:{{ site.url }}{{ event.url }}
-{% if event.description -%}
+  {%- if event.description %}
 DESCRIPTION:{{ event.description }}
-{% endif -%}
+  {%- endif %}
 END:VEVENT
-{% endfor -%}
+{%- endfor %}
 END:VCALENDAR
