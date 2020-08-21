@@ -23,12 +23,12 @@ Gig Harbor, WA 98335
 
 ## Architectural Modification Requests
 
-Architectural modification requests must be submitted for approval using the [Architecural Modification Request form](contact/architectural-modification-request.pdf).
+Architectural modification requests must be submitted for approval using the *Architecural Modification Request* form.
 
 This form can be [filled out on-line](https://forms.gle/DVrK8JngchL4UzdT7) or the [document](contact/architectural-modification-request.pdf) can be completed and [emailed](mailto:board@heronwood.org) or [mailed](#mailing-address). The Architectural Control Committee will approve/modify/disapprove the request within 10 days of receipt of request.
 
 ## Complaints
 
-Per [Article VII, Section 17](governance/covenants-conditions-and-restrictions.md#section-17), association members are encouraged to attempt resolution with the affected parties. If resolution cannot be accomplished, complaints must be submitted for resolution using the [Homeowners Association Complaint form](contact/homeowners-association-complaint.pdf).
+Per [Article VII, Section 17](governance/covenants-conditions-and-restrictions.md#section-17), association members are encouraged to attempt resolution with the affected parties. If resolution cannot be accomplished, complaints must be submitted for resolution using the *Homeowners Association Complaint* form.
 
 This form can be [filled out on-line](https://forms.gle/TraLMcNF88VGB25P8) or the [document](contact/homeowners-association-complaint.pdf) can be completed and [emailed](mailto:board@heronwood.org) or [mailed](#mailing-address). The Board of Directors will respond within 15 days of receipt of request.
