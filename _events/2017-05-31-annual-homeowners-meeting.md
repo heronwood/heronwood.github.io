@@ -2,6 +2,7 @@
 title: 2017 Annual Homeowner's Meeting
 date: 2017-05-31 19:00:00 -0700
 location: Gig Harbor Library
+tags: [meeting]
 ---
 
 ## Minutes

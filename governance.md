@@ -39,7 +39,17 @@ These fellow Heronwood Estates homeowners have been elected as volunteer members
 We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
 
-## Treasurer's Reports
+## Records
+
+### Meeting Minutes
+
+{% assign meetings = site.events | where: 'tags', 'meeting' | where_exp: 'item', 'item.content != ""' | reverse %}
+
+{% for meeting in meetings -%}
+* [{{ meeting.title | escape }}]({{ meeting.url }}) ({{ meeting.date | date: '%B %e, %Y' }})
+{% endfor %}
+
+### Treasurer's Reports
 
 <ul class="reports">
 {% assign reports = site.static_files | where: 'report', true %}

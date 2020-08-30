@@ -2,6 +2,7 @@
 title: 2020 Annual Homeowner's Meeting
 date: 2020-06-27 10:00:00 -0700
 location: Zoom
+tags: [meeting]
 ---
 
 ## Minutes
