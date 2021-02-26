@@ -198,7 +198,7 @@ No radio, television, cell antennae or satellite dish of any kind which may be, 
 
 ### Section 13.
 
-Except with the written approval of the Board or the Architech1ral Control Committee, no persons shall reside upon the premises of any lot until such time as the improvements to be erected thereon in accordance with the plans and specifications approved by the Board or the Architectural Control Committees have been completed. 
+Except with the written approval of the Board or the Architectural Control Committee, no persons shall reside upon the premises of any lot until such time as the improvements to be erected thereon in accordance with the plans and specifications approved by the Board or the Architectural Control Committees have been completed. 
 
 ### Section 14.
 
