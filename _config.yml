@@ -34,6 +34,7 @@ defaults:
       type: 'events'
     values:
       layout: event
+      future: true
   - scope:
       path: 'reports/*'
     values:
