@@ -34,12 +34,12 @@ defaults:
       type: 'events'
     values:
       layout: event
-      future: true
   - scope:
       path: 'reports/*'
     values:
       report: true
 permalink: /:path/:basename
+future: true
 timezone: America/Los_Angeles
 googleAnalytics:
   trackingId: UA-174574780-1
