@@ -3,6 +3,7 @@ title: Heronwood Estates Homeowners’ Association
 markdown: CommonMarkGhPages
 commonmark:
   options:
+    - UNSAFE
     - FOOTNOTES
     - SMART
   extensions:
