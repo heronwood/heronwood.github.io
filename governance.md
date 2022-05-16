@@ -36,9 +36,15 @@ These fellow Heronwood Estates homeowners have been elected as volunteer members
 ### Architectural Control Committee
 
 {% if 0 < site.acc_members.size %}
-  {% for member in site.acc_members -%}
-* {{ member.name | escape }}
+<ul class="profiles">
+  {% for member in site.acc_members %}
+  <li>
+    <img src="{{ member.photo | escape }}" alt="photo of {{ member.name | escape }}" />
+    <span class="title">{{ member.title | escape }}</span>
+    <span class="name">{{ member.name | escape }}</span>
+  </li>
   {% endfor %}
+</ul>
 {% else %}
 We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
