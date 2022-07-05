@@ -54,4 +54,6 @@ Slate opened:
 * Brynn Graham re-elected secretary
 * Susan and Joel Mott elected co-treasurers
 
+The Board approved removing Tom Gonzalez and adding Jordan Moore, President, and Susan Mott, Treasurer, to have bank signing authority with the Heronwood Estates HOA account at Sound Credit Union.
+
 Meeting adjourned shortly after 9 p.m.
