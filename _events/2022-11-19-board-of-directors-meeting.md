@@ -1,6 +1,7 @@
 ---
 title: Board of Directors Meeting
 date: 2022-11-19 13:00:00 -0700
+endDate: 2022-11-19 14:45:00 -0700
 location: Gig Harbor Library, 4424 Point Fosdick Drive NW, Gig Harbor, WA 98335
 tags: [meeting]
 ---
