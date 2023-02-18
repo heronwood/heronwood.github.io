@@ -50,7 +50,7 @@ Already this year there were four expenses totaling $935:
 * Reimbursement of $44.20 to Joel Mott for two truckloads of invasive species removed from open space areas and taken to the Purdy Transfer Center.
 * Reimbursement of $25.99 to Susan and Joel Mott for Office Depot purchase of 1096 and 1099NEC forms.
 
-With the 2023 due increase annual dues are expected to bring in $7,182 in revenue. Minimum required operating expenses are expected to be roughly $2,000 (this includes required insurance cost, post office box rental, postage, office supplies, printing, Quicken annual subscription for accounting purposes, estimated reimbursements and state registration annual report cost). (INSERT LINK HERE TO SEE THE SPREADSHEET SHARED BY SUSAN)
+With the 2023 due increase annual dues are expected to bring in $7,182 in revenue. Minimum required operating expenses are expected to be roughly $2,000 (this includes required insurance cost, post office box rental, postage, office supplies, printing, Quicken annual subscription for accounting purposes, estimated reimbursements and state registration annual report cost). [HOA 2023 Budget DRAFT v2 to Board 2023.01.11.xlsx](https://heronwood.org/HOA2023%20Budget%20DRAFT%20v2%20to%20Board%202023.01.11.xlsx)
 
 With these recurring costs removed, the remaining available balance is $8,882. The Treasurer’s proposed keeping $2,000 in reserve as a carryover balance for emergency or unexpected costs.
 
