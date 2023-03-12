@@ -1,7 +1,7 @@
 ---
 title: Neighborhood Cleanup
-date: 2023-06-03 09:00:00 -0800
-endDate: 2023-06-03 12:00:00 -0800
+date: 2023-06-03 09:00:00 -0700
+endDate: 2023-06-03 12:00:00 -0700
 location: TBD
 tags:
 ---
