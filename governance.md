@@ -49,6 +49,26 @@ These fellow Heronwood Estates homeowners have been elected as volunteer members
 We do not currently have an elected Architectural Control Committee. As such, all architectural decisions fall to the [Board of Directors](#board-of-directors).
 {% endif %}
 
+### Landscaping Committee
+
+The Landscaping Committee is comprised of homeowner volunteers who help maintain and beautify the HOA common areas or "Open Spaces."
+
+Meetings and work parties are on an ad hoc basis, depending on weather and committee volunteers' availability.
+
+Upcoming projects - Clean-up “Open Spaces” including weeding, removing debris and invasive ivy/blackberries and, in some areas, restoring native vegetation:
+* Along 38th Avenue
+* Along Briarwood Lane
+* Pond area
+* 30' to 50' neighborhood perimeter (likely starting from 38th to pond area)
+
+Recent accomplishments:
+* Improved landscaping on each side of lower sign (removed invasive plants; planted native plants)
+* (Ongoing) Weed and clean up around upper and lower sign areas
+* (Ongoing) Weed sidewalk strip
+ 
+
+If interested in participating or learning more, [contact the board](contact).
+
 ## Records
 
 ### Meeting Minutes
