@@ -1,5 +1,5 @@
 ---
-title: Welcome to Heronwood Estates
+title: 2023 Assessment Survey Results
 ---
 
 In May of 2023, the board send a survey to the HOA residents via email. Assessments had fallen so far behind that the HOA would no longer be able to afford landscaping services before the end of 2024. Fee increases of more than 5% cannot occur without a vote in which at least two-thirds of the membership agrees. This survey was not a voting ballot, but rather a request for feedback. The survey results will be used by the Board of Directors to determine our community’s best path forward.
