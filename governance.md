@@ -6,7 +6,7 @@ navigation: 2
 ---
 
 <div class="notice">
-  <p>The Heronwood Estates HOA Board received a request to amend the HOA governing documents to ban the discharge of certain fireworks within the Heronwood Estates HOA boundaries. <a href="{% link governance/proposed-fireworks-amendment.md %}">Read more…</a></p>
+  <p>In May of 2023, the Heronwood Estates HOA Board sent out a survey about changes to the annual assessment. <a href="{% link misc/2023-assessment-survey-results.md %}">View the results.</a></p>
 </div>
 
 ## Governing Documents
