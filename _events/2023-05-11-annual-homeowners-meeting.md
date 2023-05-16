@@ -59,7 +59,7 @@ An anonymous vote was conducted via a poll through Zoom. Each person was unanimo
 
 The board sent out via email a survey for all households to answer. The purpose of the survey was to gauge membership willingness to increase dues, and by how much. Surveys were sent to 57 owners; 43 responded by the meeting Thursday night. The [results of the survey]({% link misc/2023-assessment-survey-results.md %}) were reviewed at the meeting.
 
-A resident asked what the process was to increase dues. Jordan outlined at high-level the process and [requirements detailed in the HOA bylaws]({% link governance/2023-assessment-survey-results.md %}#section-5-notice-and-quorum-for-action-authorized-under-sections-3-and-4).
+A resident asked what the process was to increase dues. Jordan outlined at high-level the process and [requirements detailed in the HOA bylaws]({% link governance/covenants-conditions-and-restrictions.md %}#section-5-notice-and-quorum-for-action-authorized-under-sections-3-and-4).
 
 #### Landscape Committee Report
 
