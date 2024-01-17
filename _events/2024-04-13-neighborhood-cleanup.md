@@ -1,6 +1,6 @@
 ---
 title: Neighborhood Cleanup
-date: 2024-04-13 09:00:00 -7000
+date: 2024-04-13 09:00:00 -0700
 endDate: 2024-04-13 12:00:00 -0700
 location: TBD
 tags: 
