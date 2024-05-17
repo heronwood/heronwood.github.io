@@ -1,7 +1,7 @@
 ---
 title: Treasurer
-name: Steven Hopkins
-address: 
-lot: 
-photo: 
+name: Erin Floersch
+address: 3719 44th Street
+lot: 51
+photo: /images/erin.jpg
 ---
