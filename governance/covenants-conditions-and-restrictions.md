@@ -126,7 +126,7 @@ None of the following actions may be taken until plans and specifications for th
 6. Any alteration of the natural drainage on a lot.
 7. Installation of exterior lighting which is visible from any street, open space, or house within the property. 
 8. Removal of vegetation of any kind from screening easements along Briarwood Lane NW or the screening easements along the rear lot lines of those residential lots numbered 27 through 41, inclusive, except the vegetation removal required in the interest of safety or necessitated by the emplacement of drainage facilities or other common utilities. 
-9. Fencing of any kind within the screening easements or common areas along Brianwood Lane NW or the screening easements along the rear lot lines of those residential lots numbered 27 through 41, inclusive.
+9. Fencing of any kind within the screening easements or common areas along Briarwood Lane NW or the screening easements along the rear lot lines of those residential lots numbered 27 through 41, inclusive.
 
 ### Section 3. Procedure.
 
@@ -236,7 +236,7 @@ In the event of damage or destruction to all or part of the common areas, the in
 
 ### Section 2.
 
-If the insurance proceeds are insufficient to pay for the cost to repair the common areas, the Board shall promptly, but in no event later than ninety (90) days after the date of damage or destruction, give notice to and conduct a special meeting of the owners to review the proposed repairs, replacement, and reconstruction, as well as the projected cost of such repairs, replacement or reconstruction. The owners shall be deemed to have approved the proposed repairs, replacement, and reconstruction as proposed by the Board at that meeting, unless the owners decide by an affirmative vote of two-thirds (2/3) of the total voting membership, to repair, replace, or reconstruct the premises in accordance with the original plan in a different manner than tl1at proposed by the Board. In any case, however, use of hazard insurance proceeds for other than repair, replacement, or reconstruction of the common areas in accordance with the original phns shall not be permitted without the prior approval of two-thirds (2/3) of the total voting membership. 
+If the insurance proceeds are insufficient to pay for the cost to repair the common areas, the Board shall promptly, but in no event later than ninety (90) days after the date of damage or destruction, give notice to and conduct a special meeting of the owners to review the proposed repairs, replacement, and reconstruction, as well as the projected cost of such repairs, replacement or reconstruction. The owners shall be deemed to have approved the proposed repairs, replacement, and reconstruction as proposed by the Board at that meeting, unless the owners decide by an affirmative vote of two-thirds (2/3) of the total voting membership, to repair, replace, or reconstruct the premises in accordance with the original plan in a different manner than tl1at proposed by the Board. In any case, however, use of hazard insurance proceeds for other than repair, replacement, or reconstruction of the common areas in accordance with the original plans shall not be permitted without the prior approval of two-thirds (2/3) of the total voting membership. 
 
 ## ARTICLE X<br>Condemnation 
 
@@ -258,13 +258,13 @@ As used in the Declaration: (1) "mortgage" includes any deed of trust or other s
 
 The approval of two-thirds (2/3) of the total voting membership shall be required for any of the following: 
 
-1. The abandonment or termination of the PUD status of the project, except for abandonment or termination, if any, provided by law in the case of substantial destruction by fire or other casualty or in the case of a taking by condemnation or erninent domain. 
+1. The abandonment or termination of the PUD status of the project, except for abandonment or termination, if any, provided by law in the case of substantial destruction by fire or other casualty or in the case of a taking by condemnation or eminent domain. 
 
 2. The effectuation of any decision by the owners association to initiate or terminate professional management and assume self-management of the project. Any management agreement for the project shall be terminable by the Association for cause upon thirty (30) days written notice thereof, and the term of any such agreement may not exceed one year, renewable by agreement of the parties for successive one-year periods. 
 
 3. Partitioning or subdividing any lot.
     
-4. Any act or omission seeking to abandon, partition, subdivide, encumber, sell or transfer the common areds; prnvided, however, that the granting of easements for public utilities or other public purposes consistent with the intended use of the common areas shall not be deemed a transfer within the meaning of this clause.
+4. Any act or omission seeking to abandon, partition, subdivide, encumber, sell or transfer the common areas; provided, however, that the granting of easements for public utilities or other public purposes consistent with the intended use of the common areas shall not be deemed a transfer within the meaning of this clause.
 
 ### Section 3.
 
