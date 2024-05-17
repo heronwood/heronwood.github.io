@@ -2,4 +2,4 @@
 {%- assign hourOffset = offset | divided_by: 100 | round | times: 60 -%}
 {%- assign minuteOffset = offset | modulo: 100 -%}
 {%- assign secondsOffset = hourOffset | plus: minuteOffset | times: -60 -%}
-{{ include.property }}:{{ include.date | date: '%s' | plus: secondsOffset | date: '%Y%m%dT%H%M%SZ' }}
+{{ include.date | date: '%s' | plus: secondsOffset | date: '%Y%m%dT%H%M%SZ' }}
