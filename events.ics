@@ -13,11 +13,11 @@ PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 {%- for event in site.events reversed %}
 BEGIN:VEVENT
 UID:{{ event.url }}@{{ page.domain }}
-{%- include date_time.ics property='DTSTAMP' date=event.date %}
-{%- include date_time.ics property='DTSTART' date=event.date %}
+DTSTAMP:{%- include date_time.ics date=event.date -%}
+DTSTART:{%- include date_time.ics date=event.date -%}
 ORGANIZER;CN={{ page.organizer.name }}:MAILTO:{{ page.organizer.mailto }}
   {%- if event.endDate %}
-{%- include date_time.ics property='DTEND' date=event.endDate %}
+DTEND:{%- include date_time.ics date=event.endDate -%}
   {%- else %}
 DURATION:{{ page.defaultDuration }}
   {%- endif %}
