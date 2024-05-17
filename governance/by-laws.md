@@ -54,7 +54,7 @@ Directors shall serve one or two terms as directed with the intent that at least
 
 ### Section 3. Removal.
 
-Any director may be removed from the Board, with or without cause, by a vote of two-thirds (2/3) of the total voting power of the Association. In the event of the death, resignation, or temoval of a director, a successor shall be selected by the remaining members of the Board and shall serve for the unexpired term of the predecessot. 
+Any director may be removed from the Board, with or without cause, by a vote of two-thirds (2/3) of the total voting power of the Association. In the event of the death, resignation, or removal of a director, a successor shall be selected by the remaining members of the Board and shall serve for the unexpired term of the predecessor.
 
 ### Section 4. Compensation.
 
@@ -68,7 +68,7 @@ The directors shall have the right to take any action in the absence of a meetin
 
 ### Section 1. Nomination.
 
-Nomination for election to the Board of Directors shall be made by a Nominating Committee or from the floor at the annual meeting. If desired by the Board of Directors, the Nominating Committee shall be appointed by the Board of Directors prior to each annual meeting of the members, to serve from the close of such annual meeting until the close of the next annual meeting and such appointment shall be announced at each annual meeting. The Nominating Committee shall consist of a Chairman, who shall be a member of the Board of Directors, and two (2) or more members of the Association. The Nominating Committee shall make as many nominations for election to the Board of Directors as it shall in its discretion determine, but not less than the number of vacancies that are to be filled. Such nominations may be made from among members priot to or during the annual meeting.
+Nomination for election to the Board of Directors shall be made by a Nominating Committee or from the floor at the annual meeting. If desired by the Board of Directors, the Nominating Committee shall be appointed by the Board of Directors prior to each annual meeting of the members, to serve from the close of such annual meeting until the close of the next annual meeting and such appointment shall be announced at each annual meeting. The Nominating Committee shall consist of a Chairman, who shall be a member of the Board of Directors, and two (2) or more members of the Association. The Nominating Committee shall make as many nominations for election to the Board of Directors as it shall in its discretion determine, but not less than the number of vacancies that are to be filled. Such nominations may be made from among members prior to or during the annual meeting.
 
 ### Section 2. Election.
 
@@ -161,7 +161,7 @@ The Association and the Board may, as set forth in the Declaration, appoint an A
 
 ## ARTICLE IX<br>Books and Records 
 
-The books, records and papers of the Association shall at all times, during reasonable business hours, be subject to inspection by any member. The Declaration, the Articles of Incotporation, and the By-Laws of the Association shall be available from any Board Member for inspection where copies may be purchased for printing costs. The fiscal year of the Association shall coincide with the calendar year. 
+The books, records and papers of the Association shall at all times, during reasonable business hours, be subject to inspection by any member. The Declaration, the Articles of Incorporation, and the By-Laws of the Association shall be available from any Board Member for inspection where copies may be purchased for printing costs. The fiscal year of the Association shall coincide with the calendar year. 
 
 ## ARTICLE X<br>Assessments 
 
