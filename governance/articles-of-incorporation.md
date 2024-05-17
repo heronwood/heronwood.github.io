@@ -60,7 +60,7 @@ Pursuant to the provisions of RCW 24.03.170 et seq., the following Articles of A
     
     ## ARTICLE IX 
     
-    No part of the net earnings of the corporation shall inure ( other than by acquiring, constructing, or providing management, maintenance and care of Association property, and other than by a rebate of excess membership dues, fees, or assessments) to the benefit of any private shareholder or individual. 
+    No part of the net earnings of the corporation shall inure (other than by acquiring, constructing, or providing management, maintenance and care of Association property, and other than by a rebate of excess membership dues, fees, or assessments) to the benefit of any private shareholder or individual. 
     
     ## ARTICLE X
     
