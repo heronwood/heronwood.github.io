@@ -17,7 +17,7 @@ The following documents describe how our association is governed:
 * Our [By-Laws](governance/by-laws.md) dictate how our association operates (meeting frequency, voting procedures, etc.).
 * Our [Covenants, Conditions, and Restrictions](governance/covenants-conditions-and-restrictions.md) spell out the rights and obligations that the association has to its members and vice versa.
 
-## Boards and Committies
+## Boards and Committees
 
 These fellow Heronwood Estates homeowners have been elected as volunteer members of the governing bodies that serve our association.
 
