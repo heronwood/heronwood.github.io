@@ -20,7 +20,7 @@ ORGANIZER;CN={{ page.organizer.name }}:MAILTO:{{ page.organizer.mailto }}
 DTEND:{%- include date_time.ics date=event.endDate -%}
   {%- else %}
 DURATION:{{ page.defaultDuration }}
-  {%- endif %}
+  {%- endif -%}
 SUMMARY:{{ event.title }}
 LOCATION:{{ event.location }}
 URL:{{ site.url }}{{ event.url }}
