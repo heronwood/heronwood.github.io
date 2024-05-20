@@ -11,7 +11,7 @@ banner: /images/20200324_145612.jpg
   <dd>{{ page.date | date: '%A, %B %e, %Y' }}</dd>
 
   <dt>Time</dt>
-  <dd>{{ page.date | date: '%l:%M%P' }}</dd>
+  <dd>{{ page.date | date: '%l:%M%P' }}{%- if page.endDate -%}-{{ page.endDate | date: '%l:%M%P' }}{%- endif -%}</dd>
 
   {% if page.location %}
     <dt>Location</dt>
