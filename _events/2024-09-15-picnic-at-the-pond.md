@@ -3,7 +3,6 @@ title: Picnic at the Pond
 date: 2024-09-15 12:00:00 -0700
 endDate: 2024-09-15 15:00:00 -0700
 location: The Pond
-description: More details coming soon.
 ---
 
 We hope you’ll join us for a Heronwood HOA picnic on Sunday, Sept. 15 from 12-3 pm. This is a chance to meet your neighbors, get together, play lawn games and enjoy our little community.
