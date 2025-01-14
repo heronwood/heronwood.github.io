@@ -6,6 +6,7 @@ location: Zoom
 tags: [meeting]
 ---
 
+<!--
 ## Minutes
 
 Boad Attendance: President Jordan Moore, Secretary Brynn Graham, Treasurer Erin Floersch
@@ -111,3 +112,4 @@ Susan said she wants to work toward bringing access back to the land and believe
 Jordan suggested with the survey the plat map should be included so people know how the neighborhood was originally designed.
 
 Meeting adjourned at 8:40 pm.
+-->
