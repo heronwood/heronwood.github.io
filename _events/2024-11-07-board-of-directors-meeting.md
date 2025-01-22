@@ -14,6 +14,15 @@ HOA owners in attendance via Zoom: Mitchell Blakney, Susan & Joel Mott, Tom Gonz
 
 Meeting called to order at 7:06 pm.
 
+## Old Business
+
+Jordan summarized two significant projects that were completed in the HOA Open Spaces this past summer:
+
+* The Department of Natural Resources awarded a micro grant ($4k+) that was used to remove several fallen/at-risk trees and flammable debris from the Open Spaces.
+* The Pierce Conversation Corp created a fire break in Open Space A.
+
+Special thanks to Susan Mott and the rest of the Landscape Committee for their efforts on these projects.
+
 ### Pond proposal
 
 The landscape committee (composed of Susan and Joel Mott, Cecilia Blomberg, Howard Cushner and Lowell Klaver) wants to see the pond slope better maintained to help keep visibility of the water and keep the blackberries away and the overgrowth maintained. The Landscape Committee also has concerns about the Tansy Ragwort and believes it is critical to remove. 
@@ -40,7 +49,7 @@ Jordan shared that the HOA board will conduct a survey of all homeowners to dete
 
 The board will include the survey in the dues notices that go out in December in an effort to get more responses. The survey will be online but will also include a paper component for those who want to fill it out and mail it back.
 
-### Budget update
+#### Budget update
 
 Erin provided the following budget updates:
 
@@ -73,11 +82,11 @@ Susan said she would like to see the dues increased minimally every year to try 
 
 Brynn shared that she did not support a dues increase in 2025 due to the big increase that was enacted in 2024 and with the feedback some residents shared who were unhappy with the increase. Brynn suggested discussing a dues increase for 2026. Erin and Jordan agreed.
 
-### Setting the May 2025 General Meeting Date
+#### Setting the May 2025 General Meeting Date
 
 The board agreed to hold the 2025 General Meeting on Thursday, May 15, 2025 via Zoom at 7 p.m. Susan shared it would be good to hear back from people about their availability to join a meeting with Zoom to see if people aren’t able to join how they can access the information discussed. It was shared people can attend via Zoom by calling a phone number and not by using a computer.
 
-### Open the floor to owner comments
+#### Open the floor to owner comments
 
 Mark cited concerns about the work done this summer in the 5 acres of forested land that created the firebreak trail. He asked if the HOA Board has anything in the works to prevent people from directly accessing his yard from the trail, which has already happened. This summer after the trail was widened and access improved it made it easier for people to walk onto the neighboring properties of the open space and Mark had a person walk onto their property, along their house line and into the street. He is concerned about safety and people trespassing on his private property.
 
