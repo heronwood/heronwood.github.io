@@ -18,7 +18,7 @@ Meeting called to order at 7:06 pm.
 
 Jordan summarized two significant projects that were completed in the HOA Open Spaces this past summer:
 
-* The Department of Natural Resources awarded a micro grant ($4k+) that was used to remove several fallen/at-risk trees and flammable debris from the Open Spaces.
+* The Department of Natural Resources awarded a micro grant ($4,500) that was used to remove several fallen/at-risk trees and flammable debris from the Open Spaces.
 * The Pierce Conversation Corp created a fire break in Open Space A.
 
 Special thanks to Susan Mott and the rest of the Landscape Committee for their efforts on these projects.
