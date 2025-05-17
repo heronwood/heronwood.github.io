@@ -5,10 +5,6 @@ banner: /images/20200510_174406.jpg
 navigation: 2
 ---
 
-<div class="notice">
-  <p>In May of 2023, the Heronwood Estates HOA Board sent out a survey about changes to the annual assessment. <a href="{% link misc/2023-assessment-survey-results.md %}">View the results.</a></p>
-</div>
-
 ## Governing Documents
 
 The following documents describe how our association is governed:
@@ -87,3 +83,7 @@ If interested in participating or learning more, [contact the board](contact).
   <li><a href="{{ report.path | escape }}">{{ report.basename | escape }}</a></li>
 {% endfor %}
 </ul>
+
+### Miscellaneous
+
+In May of 2023, the Heronwood Estates HOA Board sent out a survey about changes to the annual assessment. <a href="{% link misc/2023-assessment-survey-results.md %}">View the results.</a>
