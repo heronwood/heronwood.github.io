@@ -49,7 +49,7 @@ Should the HOA perform additional maintenance on 38th Street?
 * 21.05% want to continue clearing brush and invasive species if there is additional cost.
 * 17.54% did not respond.
 
-[Full results are available to view here.](https://drive.google.com/drive/folders/1ZmK3toCtZo34qbifA87lsettvzHO5aV5?usp=share_link).
+[Full results are available to view here.](https://drive.google.com/drive/folders/1ZmK3toCtZo34qbifA87lsettvzHO5aV5?usp=share_link)
 
 Jordan summarized the responses saying the question about the perimeter trails had the most clear opinion about how the neighborhood wants to proceed. This one is also the one that resulted in the most feedback from owners who felt strongly about the space.
 
