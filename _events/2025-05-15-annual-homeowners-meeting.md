@@ -61,7 +61,7 @@ Discussion about the slope leading to the pond ensued.
 
 Owner Mitch Blakney said he contacted the city planning department on May 15, 2025 and they were clear the HOA shouldn’t clear any vegetation from Briarwood Lane where the open space is located, or 38th. He was told we can clear noxious weeds but not invasive species. The same goes with the slope along the pond. He requested an email with this information to share with the HOA board. The City of Gig Harbor said it would email a response on Monday, May 19, 2025. Mitch will share the email once he receives it. The board will post the email to the website and email all owners once it’s online so people can read it.
 
-Owner Susan Mott shared the City of Gig Harbor cleared the plants along the road when it did its road project that added street lighting and a sidewalk. She said it is interesting they now say vegetation can’t be cut.
+Owner Susan Mott shared the City of Gig Harbor recently clear cut all of the invasive plants along 38th from the sidewalk to their "Sensitive Area" signs. She said it is interesting they now say vegetation can’t be cut.
 
 Brynn shared it could be that the city issued a permit for the sidewalk construction that allowed for the plants to be cleared to install the project. Once cleared the contractor replanted the area.
 
