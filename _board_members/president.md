@@ -1,7 +1,7 @@
 ---
 title: President
-name: Jordan Moore
-address: 4324 36th Ave
-lot: 46
-photo: /images/jordan.jpg
+name: Brynn Graham
+address: 4403 36th Ave
+lot: 35
+photo: /images/brynn.jpg
 ---
