@@ -1,7 +1,7 @@
 ---
 title: Secretary
-name: Brynn Graham
-address: 4403 36th Ave
-lot: 35
-photo: /images/brynn.jpg
+name: Tim Dawson
+address: 4202 36th Ave
+lot: 42
+photo: /images/tim-dawson.jpg
 ---
